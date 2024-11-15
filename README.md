@@ -11,4 +11,4 @@ The website includes three recipes:
 
 Each recipe has its own page, with a list of ingredients and instructions for preparation.
 
-### Folder Structure:
+
